@@ -1,0 +1,56 @@
+{
+    "en": {
+        "translation": {
+            "Assets": "Assets",
+            "Creators": "Creators",
+            "Careers": "Careers",
+            "GoPro": "Go Pro",
+            "Search": "Search",
+            "Login": "Log in",
+            "Signup": "Sign up",
+            "A SECURITY SOLUTION": "A SECURITY SOLUTION",
+            "Keep track of your loved ones in real time!": "Keep track of your loved ones in real time!",
+            "We noticed the high level of insecurity in the world, and we thought of how technology could be used to combat these insecurities.": "We noticed the high level of insecurity in the world, and we thought of how technology could be used to combat these insecurities.",
+            "Join Our Waitlist!": "Join Our Waitlist!",
+            "Be the first to get notified when the product is ready!": "Be the first to get notified when the product is ready!",
+            "Join List!": "Join List!",
+            "Your email address": "Your email address"
+        }
+    },
+    "ru": {
+        "translation": {
+            "Assets": "Активы",
+            "Creators": "Создатели",
+            "Careers": "Карьера",
+            "GoPro": "Go Pro",
+            "Search": "Поиск",
+            "Login": "Войти",
+            "Signup": "Зарегистрироваться",
+            "A SECURITY SOLUTION": "Решение безопасности",
+            "Keep track of your loved ones in real time!": "Следите за своими близкими в реальном времени!",
+            "We noticed the high level of insecurity in the world, and we thought of how technology could be used to combat these insecurities.": "Мы заметили высокий уровень небезопасности в мире и подумали, как технологии могут помочь в борьбе с этой небезопасностью.",
+            "Join Our Waitlist!": "Присоединяйтесь к нашему списку ожидания!",
+            "Be the first to get notified when the product is ready!": "Будьте первыми, кто узнает, когда продукт будет готов!",
+            "Join List!": "Присоединиться",
+            "Your email address": "Ваш адрес электронной почты"
+        }
+    },
+    "uz": {
+        "translation": {
+            "Assets": "Faollar",
+            "Creators": "Yaratuvchilar",
+            "Careers": "Karyera",
+            "GoPro": "Go Pro",
+            "Search": "Qidiruv",
+            "Login": "Kirish",
+            "Signup": "Ro'yxatdan o'tish",
+            "A SECURITY SOLUTION": "XAVFSIZLIK YECHIMI",
+            "Keep track of your loved ones in real time!": "Yaqqol tanishlaringizni kuzatib boring!",
+            "We noticed the high level of insecurity in the world, and we thought of how technology could be used to combat these insecurities.": "Biz dunyodagi yuqori xavfsizlik darajasini sezamiz va texnologiyalardan qanday foydalanish mumkinligini o'yladik.",
+            "Join Our Waitlist!": "Bizning kutish ro'yxatimizga qo'shiling!",
+            "Be the first to get notified when the product is ready!": "Mahsulot tayyor bo'lganda xabardor bo'lish uchun birinchi bo'ling!",
+            "Join List!": "Ro'yxatga qo'shiling!",
+            "Your email address": "Sizning elektron pochta manzilingiz"
+        }
+    }
+}
